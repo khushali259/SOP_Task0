@@ -1,0 +1,9 @@
+git commands i've used:
+
+clone
+commit
+init
+merge
+checkout
+branch
+

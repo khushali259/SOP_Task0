@@ -1,0 +1,2 @@
+you were then supposed to create a new branch with hello.txt, delete the existing text and then add the explanation and save it 
+one you had done that, you would merge it with your previous branch and it would result in an automatic merge conflict which should have been resolved manually
