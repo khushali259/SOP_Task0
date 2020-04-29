@@ -1,0 +1,17 @@
+1) cd path
+    To move to the folder where the local repository is to be created
+2) git clone
+    To clone the repository into local in my system after forking the given file into my github page.
+3) git add --all
+    To stage all the files from the Working folder
+4) git commit -m ""
+    To save all the files that have been staged and the modifications made in the Working folder to the local repository 
+5) git branch Haemanth_V
+    To create a branch named Haemanth_V
+6) git branch
+    To check which branch we are currently in
+7) git checkout Haemanth_V
+    To move  into Haemanth_V branch from master branch
+8) git add 
+    To stage file(s) in a branch
+9) 
