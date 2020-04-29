@@ -14,4 +14,10 @@
     To move  into Haemanth_V branch from master branch
 8) git add 
     To stage file(s) in a branch
-9) 
+9) git merge 
+    To merge two branches
+10) git status
+     To check the status of staging, committing and modifications done in a branch
+11) git pull origin master
+     To pull the changes from repo
+ 
