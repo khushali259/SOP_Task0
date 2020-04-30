@@ -1,0 +1,20 @@
+//to clone the remote repo in local repo
+git clone url
+
+//to create a branch
+git branch branch_name
+
+//to switch to branch1 from current branch
+git checkout branch1
+
+//to add log.txt to staging
+git add log.txt
+
+//to do a commit with a message
+git commit -m "message"
+
+//to merge branchx on current branch
+git merge branchx
+
+//to push the current branch and set the remote as upstream,
+git push --set-upstream origin sudhindra_dondapati
