@@ -1,0 +1,17 @@
+git clone - To clone the repository given by mentor.
+cd - To move to the repository.
+git branch - (git branch Aditya_Modi) to create branch.
+git checkout - to move to the branch.
+git branch - to crate ans_branch
+create answer.txt file to give answer
+git add - to add anwser.txt
+git checkout - to move to master branch
+git branch - to create explanation_branch
+create answer.txt file to give explanation
+git merge - to merge explanation ans ans file
+resolve conflict manually.
+git merge - to merge explanation_branch to master branch
+rename both file
+git pull Aditya_Modi
+git pull explanation_branch
+git push origin <branch name> - to push it into remote repository
