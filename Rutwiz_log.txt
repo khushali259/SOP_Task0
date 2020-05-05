@@ -1,0 +1,22 @@
+cd path-To move to the folder where the local repository is to be created
+git clone-To clone the repository into local in my system after forking the given file into my github page.
+git add --all
+    To stage all the files from the Working directory
+git commit -m ""
+    To save all the files that have been staged and the modifications made in the Working folder to the local repository 
+git branch Rutwiz_A
+    To create a branch named Rutwiz_A
+git branch
+    To check which branch we are currently in
+git checkout Rutwiz_A
+    To move  into Rutwiz_A branch from master branch
+git add 
+    To stage file(s) in a branch
+git merge 
+    To merge two branches
+git status
+     To check the status of staging, committing and modifications done in a branch
+git pull origin master
+     To pull the changes from repo
+git push origin master
+     To push the changes to the remote repo 
